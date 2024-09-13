@@ -1,0 +1,47 @@
+"cod_produto","nome_produto","qtd_produto","valor_und","data_validade"
+1,"açúcar União Refinado",10,"4.00",NULL
+2,"Leite integral Italac",12,"5.80","2025-01-08"
+3,"Leite Piracanjuba",6,"5.30","2024-12-20"
+4,"Leite condensado Piracanjuba",5,"5.75","2025-03-01"
+5,"Creme de leite piracanjuba",20,"3.25","2025-01-21"
+6,"Leite condensado moça ",5,"6.90","2025-02-01"
+7,"café pilão ",5,"10.00",NULL
+8,"café melita",7,"8.00",NULL
+9,"filtro de café",4,"4.00",NULL
+10,"nescau",5,"8.00","2025-01-10"
+11,"detergente líquido ypê",12,"3.50",NULL
+12,"detergente líquido limpol",3,NULL,NULL
+13,"sabão em barra ypê",15,"9.00","2025-12-01"
+14,"arroz namorado agulinha",10,"28.00",NULL
+15,"arroz solito agulinha",5,"26.50",NULL
+16,"feijão carrioca kicaldo",10,"7.00","2025-06-01"
+17,"óleo de soja liza",5,"6.50","2024-12-01"
+18,"arroz camil parboilizado",5,"29.00",NULL
+19,"molho de tomate",15,"2.25","2024-10-25"
+20,"macarrão instantâneo nissin",20,"2.50","2025-03-07"
+21,"biscoito cream cracker",5,"6.00","2024-10-27"
+22,"biscoito recheado passatempo",10,"2.50","2024-12-20"
+23,"biscoito maizena",3,"6.00","2024-10-30"
+24,"biscoito salcgado tuc´s",10,"2.00","2025-01-10"
+25,"biscoito club social",4,"9.00","2025-04-26"
+26,"biscoito recheado bono nestle",2,"2.40","2024-10-30"
+27,"chocolate bis",3,"6.00","2025-06-20"
+28,"biscoito sequilhos",4,"3.50",NULL
+29,"coca-cola retornavel",20,"5.00",NULL
+30,"refrigerante guaraná 2,5L",5,"8.00",NULL
+31,"suco de laranja 1L",5,"4.50","2024-11-15"
+32,"biscoito wafer",3,"3.80","2025-02-10"
+33,"chá mate",4,"7.00","2025-03-05"
+34,"achocolatado em pó",2,"5.50","2025-01-20"
+35,"macarrão instantâneo",6,"2.80","2024-12-30"
+36,"vinagre de maçã 500ml",7,"6.20","2025-04-15"
+37,"biscoito de polvilho",5,"15.00","2025-05-10"
+38,"pipoca de micro-ondas",8,"7.50","2025-06-25"
+39,"macarrão espaguete 500g",9,"3.20","2024-11-05"
+40,"suco de uva 1L",4,"3.90","2025-02-28"
+41,"gelatina varios sabores",20,"2.20","2025-10-20"
+42,"shampoo anticaspa",5,"12.50","2025-10-01"
+43,"condicionador hidratante",10,"14.00","2025-11-10"
+44,"sabonete líquido",8,"8.00","2025-12-15"
+45,"creme dental",15,"5.50","2025-09-25"
+46,"desodorante roll-on",7,"7.20","2025-10-05"
